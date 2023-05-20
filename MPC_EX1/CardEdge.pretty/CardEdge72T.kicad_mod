@@ -1,0 +1,661 @@
+(footprint "CardEdge72T" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 604E0DE2)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -5.08) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1b81971c-37ee-456e-aaa3-4f9ba868abc7)
+  )
+  (fp_text value "CardEdge72T" (at 0 -1.905) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 938551a4-44c9-4d3b-94ce-5775e63bf938)
+  )
+  (pad "1" connect custom (at -45.72 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp ca57d87f-ffe2-4db2-8d05-7527b88ed81c))
+  (pad "2" connect custom (at -45.72 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 2b4b2141-d2f8-4de3-ad22-78e637359a1b))
+  (pad "3" connect custom (at -43.18 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 9dda0315-2ca0-444b-89ea-22e0117d8838))
+  (pad "4" connect custom (at -43.18 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 6677e91b-60ee-46cd-b13f-487683b017a8))
+  (pad "5" connect custom (at -40.64 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp d5875372-ab29-49d7-8d81-8c03d994ca06))
+  (pad "6" connect custom (at -40.64 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp f2212141-4423-492d-a55a-d6e881c49172))
+  (pad "7" connect custom (at -38.1 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 5c91abd0-7d39-4b58-b0d2-bc09e13a2d7a))
+  (pad "8" connect custom (at -38.1 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 3952e1f1-287a-4bdc-8f4d-b9ec2502dceb))
+  (pad "9" connect custom (at -35.56 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 37fe2c24-9da6-4054-a610-91abaa26e368))
+  (pad "10" connect custom (at -35.56 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 1cd33067-5dc8-499f-b244-69e57d67c29d))
+  (pad "11" connect custom (at -33.02 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 9e14e5b9-5248-4a3f-957c-17a81585c831))
+  (pad "12" connect custom (at -33.02 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp ccf48c76-b154-4cfa-b57d-8ed8dce170db))
+  (pad "13" connect custom (at -30.48 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 95765a06-6bfb-4881-95cb-1a994bd955ff))
+  (pad "14" connect custom (at -30.48 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 8870ba48-8a35-4b1e-a09c-a5e8f59fde6b))
+  (pad "15" connect custom (at -27.94 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp fa69d6b7-b9ee-40a0-9b7c-def4d7ddd242))
+  (pad "16" connect custom (at -27.94 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 1e24d733-34d1-4b32-9efb-71a2b6b53eb3))
+  (pad "17" connect custom (at -25.4 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp e5ac0676-d861-4614-b656-9dc8cce2133f))
+  (pad "18" connect custom (at -25.4 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp a9b77982-3fdf-4191-b401-29282a7e523a))
+  (pad "19" connect custom (at -22.86 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 44b07e89-70dd-450a-8cfc-0b48ba5d9707))
+  (pad "20" connect custom (at -22.86 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 777a3b54-cabe-4160-b663-29d638a0fc70))
+  (pad "21" connect custom (at -20.32 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 7938b66b-9455-423f-885e-afbad81ab387))
+  (pad "22" connect custom (at -20.32 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 0b3cbd06-f2f8-4f44-b34f-a926cc152509))
+  (pad "23" connect custom (at -17.78 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 9252266c-1543-456d-86e6-9066bcc009b7))
+  (pad "24" connect custom (at -17.78 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 740ebb8b-94bb-46c5-8378-83322bbc9c48))
+  (pad "25" connect custom (at -15.24 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp fcd9a379-70bb-4201-bb0a-dc81cd7c6e03))
+  (pad "26" connect custom (at -15.24 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 04559d74-af93-4d1c-8a25-ac7600166fac))
+  (pad "27" connect custom (at -12.7 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 12a5c405-34e5-45d2-a2a9-76b4a76b40bc))
+  (pad "28" connect custom (at -12.7 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 19956d8e-0fbc-4498-ad19-6021e45900d4))
+  (pad "29" connect custom (at -10.16 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 238e6cbc-d649-4e0d-8f93-f93ae8c31a80))
+  (pad "30" connect custom (at -10.16 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp f0cc46d6-9d4d-4040-b7ab-f9ec20983753))
+  (pad "31" connect custom (at -7.62 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 5c1686e5-bac4-43dd-ad18-d65e28cc2cb1))
+  (pad "32" connect custom (at -7.62 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 555f3fd1-348c-4444-8029-fd13e6e320c3))
+  (pad "33" connect custom (at -5.08 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 937c34eb-7b59-4b0e-bebb-d102720172f5))
+  (pad "34" connect custom (at -5.08 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 120c3a62-0888-453e-a0b1-468f8962a253))
+  (pad "35" connect custom (at -2.54 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp b82f34da-db7a-48dc-8e28-b83d43e7027c))
+  (pad "36" connect custom (at -2.54 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 2643b657-f4b5-4f49-8b35-b240a7e6be21))
+  (pad "37" connect custom (at 0 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 04313988-525d-4270-a26e-12b342d47ae0))
+  (pad "38" connect custom (at 0 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 4d841125-cf5e-4e8c-89db-bcf18ab65781))
+  (pad "39" connect custom (at 2.54 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 9461b77a-afb4-4987-be0c-7538b80f37c9))
+  (pad "40" connect custom (at 2.54 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 3204a11e-e302-45b2-8f98-2dd6d9e660e9))
+  (pad "41" connect custom (at 5.08 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 26e3e7d4-eec1-4fdd-a42b-862c6173d12b))
+  (pad "42" connect custom (at 5.08 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 6d5958f8-e992-48c4-b1ee-13e7eb52105e))
+  (pad "43" connect custom (at 7.62 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp b1d4a73e-e0ab-4ae9-a310-9dc43fc3db72))
+  (pad "44" connect custom (at 7.62 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 621e8187-3cdd-47d7-9556-4451b6b70900))
+  (pad "45" connect custom (at 10.16 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 7dff9082-97dd-4d1e-a523-00007385c494))
+  (pad "46" connect custom (at 10.16 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp fe4b7d3b-96d7-4b6b-a2e3-5d85913579f1))
+  (pad "47" connect custom (at 12.7 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp e156716a-f049-44d8-b9f3-ec7bb8be576b))
+  (pad "48" connect custom (at 12.7 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 74c1a42d-b29c-432f-888b-86fe16c3a9be))
+  (pad "49" connect custom (at 15.24 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 9d040d69-7970-4470-892e-6c3fb25c06b6))
+  (pad "50" connect custom (at 15.24 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 2e2a3886-e008-4947-b083-0e7407ac3d97))
+  (pad "51" connect custom (at 17.78 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 4691213c-03b7-4440-88df-75d0758f65bd))
+  (pad "52" connect custom (at 17.78 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp ec340edd-1efa-42ad-9c07-5ee5aaf442de))
+  (pad "53" connect custom (at 20.32 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp c340d100-631a-4f15-863d-52876c027b6a))
+  (pad "54" connect custom (at 20.32 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 5221085d-b5c7-48c9-83b1-2506a770ea26))
+  (pad "55" connect custom (at 22.86 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 899a3154-79ce-44b5-af6d-c15783f572af))
+  (pad "56" connect custom (at 22.86 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 4f901274-2c88-4662-81a8-c5a3ecd7b9ef))
+  (pad "57" connect custom (at 25.4 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp afb943da-2979-4214-8a7a-53b5814398e3))
+  (pad "58" connect custom (at 25.4 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 3139be01-3db9-4019-92cb-c40e347af065))
+  (pad "59" connect custom (at 27.94 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp ad6c9993-a61f-44ec-88bb-513b07be3a29))
+  (pad "60" connect custom (at 27.94 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp d4169d35-b071-44d4-a701-3ab709997c01))
+  (pad "61" connect custom (at 30.48 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 42cac9e8-6767-48f3-bbe8-b775c11fbb32))
+  (pad "62" connect custom (at 30.48 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp ff1825d4-498b-476e-b4cc-bbcddc1fd880))
+  (pad "63" connect custom (at 33.02 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 220e72e1-6205-4610-99bd-18bc8eb1c3e1))
+  (pad "64" connect custom (at 33.02 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp b3566f03-3786-4a29-bce4-42484056a1ba))
+  (pad "65" connect custom (at 35.56 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp cccc49ab-1162-452b-9182-0ba30732612c))
+  (pad "66" connect custom (at 35.56 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp ff3591fd-32a5-4f05-9f3f-99627ea27f73))
+  (pad "67" connect custom (at 38.1 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 145682b2-7c8f-4e85-8a0c-b6b1f79d049a))
+  (pad "68" connect custom (at 38.1 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 5860d12a-53f6-45a2-8412-00ecfade58fd))
+  (pad "69" connect custom (at 40.64 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 86308ac9-d105-46f0-977b-bd46c5a67444))
+  (pad "70" connect custom (at 40.64 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 5a46f657-d680-498f-9d77-a0ecfcff8e5e))
+  (pad "71" connect custom (at 43.18 0) (size 1.524 9.144) (layers "B.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy 0.762 -4.572)
+          (xy -0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 277fef6c-b3cc-4426-9eab-97113255d20c))
+  (pad "72" connect custom (at 43.18 0) (size 1.524 9.144) (layers "F.Cu")
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+          (xy -0.762 -4.572)
+          (xy 0.762 -4.572)
+          (xy 0 -5.842)
+        ) (width 0) (fill yes))
+    ) (tstamp 0bd4d42a-5224-49da-8b23-a963f6be5751))
+)

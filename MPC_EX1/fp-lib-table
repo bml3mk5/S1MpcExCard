@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "CardEdge")(type "KiCad")(uri "${KIPRJMOD}/CardEdge.pretty")(options "")(descr ""))
+  (lib (name "MyConn")(type "KiCad")(uri "${KIPRJMOD}/MyConn.pretty")(options "")(descr ""))
+)
